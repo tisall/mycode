@@ -1,3 +1,6 @@
+[redfish]
+Redfish     baseuri=aux1-09ea3c55-d576-4ac8-9726-670114e4aa9d.live.alta3.com username=root password=null
+
 [planetexpress]
 bender      ansible_host=10.10.2.3 ansible_user=bender ansible_python_interpreter=/usr/bin/python3 fileuser=bender
 fry         ansible_host=10.10.2.4 ansible_user=fry ansible_python_interpreter=/usr/bin/python3 fileuser=fry
